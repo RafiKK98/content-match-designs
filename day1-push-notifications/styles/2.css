@@ -12,6 +12,7 @@ body {
 .layout {
     width: 375px;
     height: 812px;
+    background-color: orange;
     flex-shrink: 0;
 }
 .content {
@@ -19,7 +20,6 @@ body {
     margin: auto;
     margin-top: 32px;
     display: flex;
-    width: 351px;
     padding: 11.332px 0px;
     flex-direction: column;
     align-items: flex-start;
